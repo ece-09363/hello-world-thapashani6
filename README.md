@@ -4,7 +4,7 @@
 
 
 1. Post a selfie
-![alt text][selfie]
+![alt text][https://user-images.githubusercontent.com/31711430/35530059-eeb579a2-0500-11e8-89f4-61619659b2bc.jpg]
 
 [selfie]: file:///D:/thapa/Documents/Rowan/6th%20Semester/Modules/selfie.jpg
 
