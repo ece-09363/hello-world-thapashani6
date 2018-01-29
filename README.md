@@ -4,7 +4,7 @@
 
 
 1. Post a selfie
-![alt text][file:///D:/thapa/Documents/Rowan/6th%20Semester/Modules/selfie.jpg]
+![alt text][selfie]
 
 [selfie]: file:///D:/thapa/Documents/Rowan/6th%20Semester/Modules/selfie.jpg
 
