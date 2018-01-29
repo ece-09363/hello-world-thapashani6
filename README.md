@@ -4,8 +4,8 @@
 
 
 1. Post a selfie
-![alt text][selfie]
+![alt text][file:///D:/thapa/Documents/Rowan/6th%20Semester/Modules/selfie.jpg]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: file:///D:/thapa/Documents/Rowan/6th%20Semester/Modules/selfie.jpg
 
-2. Tell me something interesting about yourself
+2. My name is Shani. I like to listen to heavy metal and progressive rock. 
